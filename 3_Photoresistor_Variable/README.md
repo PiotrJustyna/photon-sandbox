@@ -1,3 +1,5 @@
+![Photoresistor](https://raw.githubusercontent.com/PiotrJustyna/photon-sandbox/master/3_Photoresistor_Variable/IMG_20151212_144453_edit.jpg)
+
 To use, GET the following from your Photon:
 
 URL | Form Data
