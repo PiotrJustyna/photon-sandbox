@@ -1,3 +1,5 @@
+![Photon](https://cdn.particle.io/images/photon-new-3e010e9f.jpg "Photo - linked to particle.io.")
+
 # Photon Sandbox
 
 This is a sandbox repository I use to play with Photon.
