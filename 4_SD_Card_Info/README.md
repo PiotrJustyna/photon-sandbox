@@ -1,10 +1,10 @@
 ![SD Card](https://raw.githubusercontent.com/PiotrJustyna/photon-sandbox/master/4_SD_Card_Info/IMG_20151213_202048.jpg)
 
-For this project I'm using [SparkFun microSD transflash brakout board](https://www.sparkfun.com/products/544).
+For this project I'm using [SparkFun microSD transflash brekout board](https://www.sparkfun.com/products/544).
 
 Wiring:
 
-microSD brakout board | Photon
+microSD breakout board | Photon
 --- | ---
 D0 | A4
 GND | GND
