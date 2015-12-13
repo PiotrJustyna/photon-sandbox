@@ -55,7 +55,7 @@ int readCardInfo(String command)
                 cardTypeSDHC = 1;
                 break;
 
-      default:  break;
+      default:  return result;
     }
     
     if (volume.init(card))
