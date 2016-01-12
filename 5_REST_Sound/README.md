@@ -11,7 +11,6 @@ Wiring:
 * left or right channel: pin D1
 * ground reference: ping GND
 
-
 Example:
 
 ![Example](http://piotrjustyna.github.io/images/Screenshot%20from%202016-01-11.png)
